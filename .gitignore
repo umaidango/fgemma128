@@ -10,3 +10,7 @@ fgemma128
 
 # その他
 .DS_Store
+
+# 私用の教材はリポジトリに入れない
+textbook/
+docs/textbook/
